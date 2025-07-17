@@ -61,7 +61,7 @@ const brandProductsData: { [key: string]: any[] } = {
       price: 199,
       originalPrice: 229,
       image:
-        "https://images.unsplash.com/photo-1539185441755-769473a23570?w=400&h=400&fit=crop&crop=center",
+        "https://www.febbuy.com/uploads/Nike_SB_Shoes/NIke_Dunk_SB_Hi/Nike_SFB_Jungle_Dunk_High_Men_Shoes_Lifestyle_Fashion_White_Blue_Black.jpg",
       hoverImage:
         "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop&crop=center",
       rating: 4.7,
@@ -109,7 +109,7 @@ const brandProductsData: { [key: string]: any[] } = {
       price: 119,
       originalPrice: null,
       image:
-        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=400&h=400&fit=crop&crop=center",
+        "https://image-cdn.hypb.st/https://hypebeast.com/image/2019/04/nike-vaporfly-4-flyknit-bright-crimson-sapphire-release-1.jpg?q=75&w=800&cbr=1&fit=max",
       hoverImage:
         "https://images.unsplash.com/photo-1520256862855-398228c41684?w=400&h=400&fit=crop&crop=center",
       rating: 4.7,
